@@ -1,0 +1,57 @@
+﻿@model Pro3_Sem3.Models.CatererFoods
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="col-md-6">
+
+            <img style="width: 40%; border-radius: 10%" src="~/images/caterer/@Model.CaterersN.Photo" alt=""  />
+        </div>
+        <div class="col-md-6">
+            <div lass="col-md-12">
+                <label>Name</label>
+                <span>@Model.CaterersN.Caterfullname</span>
+            </div>
+            <div lass="col-md-12">
+                <label>Address</label>
+                <span>@Model.CaterersN.Cateraddress</span>
+            </div>
+            <div lass="col-md-12">
+                <label>Phone</label>
+                <span>@Model.CaterersN.Caterphone</span>
+            </div>
+        </div>    
+    </div>
+    <div class="btn btn-primary" style="float:right;font-size:20px" >
+        <a href='@Url.Action("ShowPaymentBeforeGetFood", "Cart",new { resid = Model.CaterersN.Caterid })'>
+            Create order
+        </a>
+
+    </div>
+</div>
+<div class="features_items">
+    <!--features_items-->
+    <h2 class="title text-center">Foods</h2>
+
+        @foreach (var item in Model.FoodList)
+        {
+            <div class="col-sm-4">
+                <div class="product-image-wrapper">
+                    <div class="single-products">
+                        <div class="productinfo text-center">
+                            <a href=''>
+                                <img src="~/images/food/@item.Foodimage" alt="" style="max-width: 100%; border-radius: 5%" />
+
+                            </a>
+                            <h2>@item.Foodname</h2>
+                            <p>$@item.Foodprice</p>
+                        </div>
+                    </div>
+                    <div class="choose">
+
+                    </div>
+                </div>
+            </div>
+        }
+
+</div>
+<!--San pham moi-->

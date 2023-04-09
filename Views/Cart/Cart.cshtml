@@ -1,0 +1,70 @@
+﻿@model List<Pro3_Sem3.Models.CartItem>
+
+<h2>Cart Market</h2>
+
+
+@if (Model.Count > 0)
+{
+
+    int stt = 1;
+    <form action="CartPayment" method="post" enctype="multipart/form-data">
+        <table class="table">
+
+            <tr>
+
+                <th>#</th>
+                <th>ID</th>
+                <th>Product</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Total</th>
+                <th></th>
+            </tr>
+
+            @foreach (var cartitem in Model)
+            {
+
+                cartitem.Total = cartitem.quantity * cartitem.product.Foodprice;
+                //total += thanhtien;
+                //cartitem.Total = total;
+
+                <tr>
+
+                    <td>@(stt++)</td>
+                    <td>
+                        <input type="hidden" asp-for="@cartitem.product.Foodid" name="productid" value="@cartitem.product.Foodid" />
+                        <label asp-for="@cartitem.product.Foodid" name="productid" value="@cartitem.product.Foodid" />@cartitem.product.Foodid
+                    </td>
+
+                    <td>@cartitem.product.Foodname</td>
+                    <td>@cartitem.product.Foodprice</td>
+                    <td><input readonly asp-for="@cartitem.quantity" name="quantity" id="@($"quantity-{cartitem.product.Foodid}")" /></td>
+                    <td><input readonly asp-for="@cartitem.Total" name="Total" value="@cartitem.Total" /> </td>
+
+            <td>
+                <button class="btn btn-success updatecartitem"
+                        asp-route="UpdateCart"
+                        asp-route-productid="@cartitem.product.Foodid">
+                   Update
+                </button>
+                <a asp-route="removecart" asp-route-productid="@cartitem.product.Foodid"
+                   class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+    }
+        @*<tr>
+            <td colspan="4" class="text-right">Tổng tiền</td>
+            <td>@(.ToString("n0"))</td>
+            <td></td>
+        </tr>*@
+
+        </table>
+            <a class="btn btn-primary" asp-controller="Cart" asp-action="CartPayment" >Send Bill</a>
+            <a class="btn btn-primary" asp-action="Index2" asp-controller="Cart" >Continue to Order</a>
+    </form>
+
+}
+else
+{
+    <p class="alert alert-danger">Cart is empty now.</p>
+}

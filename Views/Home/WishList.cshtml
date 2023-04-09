@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Pro3_Sem3.Models.ViewHome>
+
+<div class="features_items">
+    <!--features_items-->
+    <h2 class="title text-center">WishList</h2>
+    @foreach (var item in Model)
+    {
+        <div class="col-sm-4">
+            <div class="product-image-wrapper">
+                <div class="single-products">
+                    <div class="productinfo text-center">
+                        <a href='@Url.Action("DetailsCaterer", "Home",new { id = item.CaterersN.Caterid })'>
+                            <img src="~/images/caterer/@item.CaterersN.Photo" alt="" style="max-width: 100%; border-radius: 5%" />
+
+
+                            <h2>@item.CaterersN.Caterfullname</h2>
+
+                            <p>@item.CaterersN.Caterphone</p>
+                        </a>
+
+                    </div>
+                </div>
+                <div class="choose">
+                    <ul class="nav nav-pills nav-justified">
+                        @if (@item.wishlist)
+                        {
+                            <li><a href='@Url.Action("RemoveWishListN", "Home",new { id = item.CaterersN.Caterid })' class="wishlist"><i class="fa fa-plus-square"></i>Remove to WishList</a></li>
+                        }
+                        else
+                        {
+                            <li><a href='@Url.Action("AddWishList", "Home",new { id = item.CaterersN.Caterid })'><i class="fa fa-plus-square"></i>Add to WishList</a></li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        </div>
+    }
+
+
+</div>
+<!--San pham moi-->

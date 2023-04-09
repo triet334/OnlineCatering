@@ -1,0 +1,166 @@
+﻿
+@{
+    ViewData["Title"] = "";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<!--<div class="header-bottom">-->
+    <!--header-bottom-->
+    <!--<div class="container">
+        <div class="row">
+            <div class="col-sm-9">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="mainmenu pull-left">
+                    <ul class="nav navbar-nav collapse navbar-collapse">
+                        <li><a href='@Url.Action("Index", "Home")' class="active">Home</a></li>-->
+
+                        <!-- <li class="dropdown"><a href="#">Blog<i class="fa fa-angle-down"></i></a>
+                            <ul role="menu" class="sub-menu">
+                                <li><a href="blog.html">Blog List</a></li>
+                                <li><a href="blog-single.html">Blog Single</a></li>
+                            </ul>
+                        </li>  -->
+                        <!--<li><a href="@Url.Action("ConTactUs", "Home")">Contact Us</a></li>
+                        <li><a href="@Url.Action("AboutUs", "Home")">About Us</a></li>
+                    </ul>
+                </div>
+            </div>-->
+            <!--<div class="col-sm-3">
+                <form action="" method="POST">
+
+                    <div class="search_box pull-right">
+                        <input type="text" name="keyword" placeholder="Search..." />-->
+            <!-- <input type="submit" class="fa fa-search" value="Tìm"> -->
+            <!--</div>
+                </form>
+
+            </div>-->
+        <!--</div>
+    </div>
+</div>-->
+
+
+<style>
+    /* Mã CSS */
+    h1 {
+        text-align: center;
+    }
+    .form {
+        text-align: center;
+    }
+
+    #form1 {
+        width: 600px;
+        background: #fff;
+        margin: 0 auto;
+    }
+
+        #form1 input {
+            width: 100%;
+            box-sizing: border-box;
+            font-size: 18px;
+            color: #555;
+            display: block;
+            line-height: 1.2;
+            background-color: #fff;
+            border-radius: 20px;
+            margin-bottom: 10px;
+            height: 50px;
+            padding: 0 20px 0 23px;
+            border: 0;
+            box-shadow: 0 5px 20px 0 rgb(0 0 0 / 5%);
+            -moz-box-shadow: 0 5px 20px 0 rgba(0,0,0,.05);
+            -webkit-box-shadow: 0 5px 20px 0 rgb(0 0 0 / 5%);
+            -o-box-shadow: 0 5px 20px 0 rgba(0,0,0,.05);
+            -ms-box-shadow: 0 5px 20px 0 rgba(0,0,0,.05);
+        }
+
+            #form1 input:focus {
+                border: 0;
+                outline: none;
+                box-shadow: 0 5px 20px 0 rgb(250 66 81 / 10%);
+                -moz-box-shadow: 0 5px 20px 0 rgba(250,66,81,.1);
+                -webkit-box-shadow: 0 5px 20px 0 rgb(250 66 81 / 10%);
+                -o-box-shadow: 0 5px 20px 0 rgba(250,66,81,.1);
+                -ms-box-shadow: 0 5px 20px 0 rgba(250,66,81,.1);
+            }
+
+        #form1 #fcontent {
+            outline: none;
+            min-height: 150px;
+        }
+
+        #form1 input[type=submit] {
+            background-color: #bd59d4;
+            height: 42px;
+            padding: 5px 20px;
+            border-radius: 21px;
+            font-size: 14px;
+            text-tranforms: uppercase;
+            color: #fff;
+            border: 0;
+            box-shadow: 0 10px 30px 0 rgb(189 89 212 / 50%);
+            -moz-box-shadow: 0 10px 30px 0 rgba(189,89,212,.5);
+            -webkit-box-shadow: 0 10px 30px 0 rgb(189 89 212 / 50%);
+            -o-box-shadow: 0 10px 30px 0 rgba(189,89,212,.5);
+            -ms-box-shadow: 0 10px 30px 0 rgba(189,89,212,.5);
+        }
+
+        #form1 input[type="submit"]:hover {
+            background: #CC4949;
+        }
+    .error {
+        color: red;
+        size: 80%
+    }
+
+    .hidden {
+        display: none;
+    }
+</style>
+<h1>Contact Us</h1>
+<div class="form">
+    <form action="@Url.Action("ThankYou", "Home")" id="form1" name="form" onsubmit="return validateForm(event)">
+        <input type="text" id="fname" name="fname" required placeholder="FullName"><br>
+        <input type="email" id="femail" name="femail" required placeholder="Email"  ><br>
+        <input type="text" id="myform_phone" name="phone" required placeholder="Phone"/>
+        <div id="phone_error" class="error hidden">
+            Please enter a valid phone number: (123) 456-7890
+        </div>
+        <input type="text" id="fcontent" name="fcontent" placeholder="Comment" required><br>
+        <input type="submit" value="Submit">
+    </form>
+</div>
+
+<script>
+    function validatePhoneNumber(input_str) {
+        var re = /^[\+]?[(]?[0-9]{3}[)]?[-\s\.]?[0-9]{3}[-\s\.]?[0-9]{4,6}$/im;
+
+        return re.test(input_str);
+    }
+
+    
+    function validateForm(event) {
+        var phone = document.getElementById('myform_phone').value;
+        if (!validatePhoneNumber(phone)) {
+            document.getElementById('phone_error').classList.remove('hidden');
+            return false;
+        } else {
+            document.getElementById('phone_error').classList.add('hidden');
+            alert("Send success")
+            return true;
+        }
+        event.preventDefault();
+    }
+
+    document.getElementById('myform').addEventListener('submit', validateForm);
+</script>
+

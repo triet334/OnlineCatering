@@ -1,0 +1,69 @@
+﻿@model IEnumerable<Pro3_Sem3.Models.Worker>
+
+@{
+    ViewData["Title"] = "WorkerListOfRestaurant";
+    Layout = "~/Views/Shared/_CatererLayout.cshtml";
+}
+
+<h1>Workers List</h1>
+
+<p>
+    <a asp-action="createWorker" asp-controller="Caterer" class="btn btn-success">Add New Workers</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Wokername)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Workerphone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Workeraddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Workersalary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Workertype)
+            </th>
+            <th>
+                Action
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Wokername)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Workerphone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Workeraddress)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Status)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Workersalary)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Workertype)
+                </td>
+                <td>
+                    <a asp-action="editWorker" asp-controller="Caterer" asp-route-id="@item.Workerid" class="btn btn-info">Edit</a> &nbsp;|&nbsp;
+                    <a asp-action="deleteWorker" asp-controller="Caterer" asp-route-id="@item.Workerid" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

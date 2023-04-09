@@ -1,0 +1,205 @@
+﻿
+@{
+    ViewData["Title"] = "";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link rel="stylesheet" type="text/css" href="styles.css" />
+<style>
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 0;
+    }
+
+    html {
+        box-sizing: border-box;
+    }
+
+    *, *:before, *:after {
+        box-sizing: inherit;
+    }
+
+    .column {
+        float: left;
+        width: 33.3%;
+        margin-bottom: 16px;
+        padding: 0 8px;
+    }
+
+    .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        margin: 1px;
+    }
+
+    .about-section {
+        padding: 100px;
+        text-align: center;
+        background-image: url('/images/CEO/background.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-color: #cccccc;
+        color: white;
+    }
+
+    .container {
+        padding: 0 8px;
+    }
+
+        .container::after, .row::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+
+    .title {
+        color: grey;
+    }
+
+    .button {
+        border: none;
+        outline: 0;
+        display: inline-block;
+        padding: 8px;
+        color: white;
+        background-color: #000;
+        text-align: center;
+        cursor: pointer;
+        width: 32%;
+    }
+
+        .button:hover {
+            background-color: blue;
+        }
+        .media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+</style>
+
+<!--<div class="header-bottom">-->
+    <!--header-bottom-->
+    <!--<div class="container">
+        <div class="row">
+            <div class="col-sm-9">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="mainmenu pull-left">
+                    <ul class="nav navbar-nav collapse navbar-collapse">
+                        <li><a href='@Url.Action("Index", "Home")' class="active">Home</a></li>-->
+
+                        <!-- <li class="dropdown"><a href="#">Blog<i class="fa fa-angle-down"></i></a>
+                            <ul role="menu" class="sub-menu">
+                                <li><a href="blog.html">Blog List</a></li>
+                                <li><a href="blog-single.html">Blog Single</a></li>
+                            </ul>
+                        </li>  -->
+                        <!--<li><a href="@Url.Action("ConTactUs", "Home")">Contact Us</a></li>
+                        <li><a href="@Url.Action("AboutUs", "Home")">About Us</a></li>
+                    </ul>
+                </div>
+            </div>-->
+            <!--<div class="col-sm-3">
+                <form action="" method="POST">
+
+                    <div class="search_box pull-right">
+                        <input type="text" name="keyword" placeholder="Search..." />-->
+            <!-- <input type="submit" class="fa fa-search" value="Tìm"> -->
+            <!--</div>
+                </form>
+
+            </div>-->
+        <!--</div>
+    </div>
+</div>-->
+
+<div class="about-section">
+    <h1>About Us Page</h1>
+    <p>We are CEO of Online Catering</p>
+    <p>
+        The main rationale behind Online Catering, is to bring all caterers under one roof i.e. Online Catering
+        for everyone. There are various problems and inconveniences faced by every individual
+        while making arrangements for special occasions whether it is a birthday, wedding,
+        anniversary, or corporate events like meetings, inaugural functions, success
+        celebrations, or college events like freshers parties, farewell parties, college day
+        celebrations or whatever may be. Onlinecatering make it more convenient and exciting
+        as one need not take stress of any catering arrangements, all is done at onlinecatering.in
+        instantly.
+        <br />
+        Whatever may be ther choice of caterers just a simple click on onlinecaterers.in will do
+        everything. You need not visit caterers and meet them for those long hours. Just see list
+        of caterers choose your favourite one and then go for menus, see your favourite dishes
+        and affordable prices. Then what? Just place order accompanied with details like day,
+        time and place for delivery of food items and stay relax!!.
+    </p>
+</div>
+<h2 style="text-align:center">Our Team</h2>
+<form action="@Url.Action("ConTactUs", "Home")">
+    <div class="row">
+        <div class="column">
+            <div class="card">
+                <img src="/images/CEO/Khanh.jpg" alt="Khanh" style="width:100%">
+                <div class="container">
+                    <h2>Pham Quoc Khanh</h2>
+                    <p class="title">CEO & Founder</p>
+                    <p>
+                        I bring convenience to everyone
+                    </p>
+                    <p>Khanh@gmail.com</p>
+                    <p><button class="button">Contact</button></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="column">
+            <div class="card">
+                <img src="/images/CEO/Nghia.jpg" alt="Nghia" style="width: 100%">
+                <div class="container">
+                    <h2>Truong Thanh Nghia</h2>
+                    <p class="title">CEO & Founder </p>
+                    <p>
+                        I bring service to everyone
+                    </p>
+                    <p>Nghia@gmail.com</p>
+                    <p><button class="button" href="">Contact</button></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="column">
+            <div class="card">
+                <img src="~/images/CEO/Quan.png" alt="Quan" style="width: 100%">
+                <div class="container">
+                    <h2>Doan Nguyen Hong Quan</h2>
+                    <p class="title">CEO & Founder</p>
+                    <p>
+                        I bring food to everyone
+                    </p>
+                    <p>Quan@gmail.com</p>
+                    <p><button class="button">Contact</button></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="column">
+            <div class="card">
+                <img src="~/images/CEO/triet.jpg" alt="Triet" style="width: 100%">
+                <div class="container">
+                    <h2>Dang Ngoc Minh Triet</h2>
+                    <p class="title">CEO & Founder</p>
+                    <p>
+                        Deliver the best customer experience
+                    </p>
+                    <p>Triet@gmail.com</p>
+                    <p><button class="button">Contact</button></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

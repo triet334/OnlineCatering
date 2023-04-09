@@ -1,0 +1,76 @@
+﻿@model Pro3_Sem3.Models.Customer
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>@Model.Cusfullname Information</h1>
+
+<div>
+   
+    <hr />
+    <dl class="row" style="letter-spacing">
+        <dt class="col-sm-2" hidden>
+            @Html.DisplayNameFor(model => model.Cusid)
+        </dt>
+        <dd class="col-sm-10" hidden accesskey="id">
+            @Html.DisplayFor(model => model.Cusid)
+        </dd>
+        <dt class="col-sm-2">
+            Account :
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Username)
+        </dd>
+        <dt class="col-sm-2" hidden>
+            @Html.DisplayNameFor(model => model.Userpass)
+        </dt>
+        <dd class="col-sm-10" hidden>
+            @Html.DisplayFor(model => model.Userpass)
+        </dd>
+        <dt class="col-sm-2">
+            Your phone :
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Cusphone)
+        </dd>
+        <dt class="col-sm-2">
+            Your Address:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Cusaddress)
+        </dd>
+        <dt class="col-sm-2">
+            Your fullname :
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Cusfullname)
+        </dd>
+        <dt class="col-sm-2" hidden>
+            @Html.DisplayNameFor(model => model.Cusstatus)
+        </dt>
+        <dd class="col-sm-10" hidden>
+            @Html.DisplayFor(model => model.Cusstatus)
+        </dd>
+        <dt class="col-sm-2" hidden>
+            @Html.DisplayNameFor(model => model.Admin)
+        </dt>
+        <dd class="col-sm-10" hidden>
+            @Html.DisplayFor(model => model.Admin)
+        </dd>
+        <dt class="col-sm-2">
+           Your Email :
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Cusemail)
+        </dd>
+    </dl>
+</div>
+<div style="padding: 5px; border-radius: 5px">
+  
+    <a asp-action="EditInfomation" asp-route-id="@Model.Cusid" class="btn btn-primary">Change Information</a> 
+    <a asp-action="Logout" asp-controller="User" asp-route-id="@Model.Cusid" class="btn btn-primary">Logout</a> 
+    <a asp-action="GetAllPayment" asp-controller="User" asp-route-id="@Model.Cusid" class="btn btn-primary">Get All Payment</a> 
+   
+   
+</div>

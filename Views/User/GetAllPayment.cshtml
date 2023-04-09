@@ -1,0 +1,97 @@
+﻿@model IEnumerable<Pro3_Sem3.Models.Payment>
+
+@{
+    ViewData["Title"] = "GetAllPayment";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Hi,@ViewBag.name. This is your history payment</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <p>Payment Code</p>
+            </th>
+            <th>
+                <p>Order Date</p>
+            </th>
+            <th>
+                <p>Order status</p>
+            </th>
+            <th>
+                <p>Total Price</p>
+            </th>
+            <th>
+                <p>Delivery Date</p>
+            </th>
+            <th>
+                <p>Order Address</p>
+            </th>
+            <th>
+                <p>Worker Service</p>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <input hidden asp-for="@item.Paymentid" accesskey="paid" name="paid" value="@item.Paymentid" />
+                    @Html.DisplayFor(modelItem => item.Paymentid)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.OrderDate)
+                </td>
+                <td>
+                    @if (item.Status == true)
+                    {
+                        <div class="glyphicon-tasks" style="background-color : springgreen; border:solid dashed groove">
+                            <p>Already Payment</p>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="glyphicon-asterisk" style="background-color : red; border:solid dashed groove">
+                            @Html.DisplayFor(modelItem => item.Status) Not yet
+                        </div>
+                    }
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Amount)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DeliveryDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Orderaddress)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cater.Caterphone)
+                </td>
+                <td colspan="8">
+                    @if (item.Status == false)
+                    {
+                        <a href='@Url.Action("DeletePayment","User", new { paid = item.Paymentid})' type="submit" value="Delete"
+                           class="btn btn-primary" onclick="return confirm ('Remove Success ')">Delete</a>
+                        <a asp-action="Index" asp-controller="Home" type="submit" value="Back to Home"
+                           class="btn btn-primary">Home</a>
+                    }
+                    else
+                    {
+                        <a class="btn btn-primary" href='@Url.Action("GetPaymentDetails","User", new { paid = item.Paymentid })'>Details</a>
+                        <a asp-action="Index" asp-controller="Home" type="submit" value="Back to Home"
+                           class="btn btn-primary">Home</a>
+                    }
+
+
+                </td>
+            </tr>
+        }
+    </tbody>
+    
+   
+</table>

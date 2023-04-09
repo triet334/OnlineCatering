@@ -1,0 +1,68 @@
+﻿@model IEnumerable<Pro3_Sem3.Models.Food>
+
+@{
+    ViewData["Title"] = "ShowFood";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>ShowFood</h1>
+
+<p>
+    
+    <a name="payID">Hoa don NO : @ViewBag.paymentID</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Foodname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Foodimage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Foodstatus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Foodprice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fooddescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cater.Catername)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Foodname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Foodimage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Foodstatus)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Foodprice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fooddescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cater.Catername)
+            </td>
+            <td>
+
+                <a href='@Url.Action("AddMenu","User",new { food_id = item.Foodid })' >Chọn món ban dau</a> 
+                <a asp-action="ShowCart" asp-controller="Cart" asp-route-id="@item.Foodid">Show Cart</a> 
+               
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

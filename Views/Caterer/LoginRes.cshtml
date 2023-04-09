@@ -1,0 +1,32 @@
+﻿@model Pro3_Sem3.Models.Caterer
+
+@{
+    ViewData["Title"] = "LoginRes";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2 class="title text-center">Login Caterer</h2>
+<div class="row">
+    <div class="col-md-4"></div>
+    <div class="col-md-4">
+        <form asp-action="LoginRes">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Catername" class="control-label">UserName</label>
+                <input asp-for="Catername" name="UserName" class="form-control" required />
+                <span asp-validation-for="Catername" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Caterpasss" class="control-label">Password</label>
+                <input type="password" asp-for="Caterpasss" name="pass" class="form-control" required/>
+                <span asp-validation-for="Caterpasss" class="text-danger"></span>
+            </div>
+          
+        <div class="form-group">
+            <button type="submit" asp-action="LoginRes" asp-controller="Caterer" value="Login" class="btn btn-primary">Login</button>
+            <a type="submit" asp-action="Register" asp-controller="Caterer" class="btn btn-primary">Register</a>
+        </div>
+        </form>
+    </div>
+</div>
+
+

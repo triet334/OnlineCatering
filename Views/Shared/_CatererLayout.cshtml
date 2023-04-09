@@ -1,0 +1,108 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Client</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="~/css/animate.css" />
+    <link rel="stylesheet" href="~/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="~/css/main.css" />
+    <link rel="stylesheet" href="~/css/prettyPhoto.css" />
+    <link rel="stylesheet" href="~/css/price-range.css" />
+    <link rel="stylesheet" href="~/css/responsive.css" />
+</head>
+
+<body>
+    <header id="header">
+        <div class="header-middle">
+            <!--header-middle-->
+            <div class="container">
+                <div class="row" style="padding: 0;">
+                    <div class="col-sm-8">
+                        <div class="shop-menu pull-right">
+                            <ul class="nav navbar-nav">
+                                <!-- <li><a href="#"><i class="fa fa-user"></i> Tài khoản</a></li> -->
+                                <li>
+                                    <a href='@Url.Action("FoodListOfRestaurant", "Caterer")'>
+                                        <i class="fa fa-star"></i> Manage Foods
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href='@Url.Action("WorkerListOfRestaurant", "Caterer")'>
+                                        <i class="fa fa-users"></i> Managae Workers
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href='@Url.Action("GetAllPayment", "Caterer")'>
+                                        <i class="fa fa-tasks"></i> Manage Orders
+                                    </a>
+                                </li>
+                                @using Microsoft.AspNetCore.Http
+                                @if (Context.Session.GetString("res") == null)
+                                {
+                                    <li class="dropdown">
+                                        <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+                                            <span class="username">
+                                                Login
+                                            </span>
+                                            <b class="caret"></b>
+                                        </a>
+                                        <ul class="dropdown-menu extended logout">
+                                            <li><a href='@Url.Action("Login", "User")'> Login Customer</a></li>
+                                            <li><a href='@Url.Action("LoginRes","Caterer")'> Login Caterer</a></li>
+                                        </ul>
+                                    </li>
+                                }
+                                else
+                                {
+                                    <li class="dropdown">
+                                        <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+
+                                            <span class="username">
+                                                @Context.Session.GetString("res2")
+                                            </span>
+                                            <b class="caret"></b>
+                                        </a>
+                                        <ul class="dropdown-menu extended logout">
+                                            <li><a  href='@Url.Action("EditCaterer", "Caterer" )'> Account</a></li>
+                                            <li><a class="nav-link text-dark" asp-area="" asp-controller="Caterer" asp-action="Logout">Logout</a></li>
+                                        </ul>
+                                    </li>
+                                }
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--/header-middle-->
+    </header>
+    <!--/header-->
+
+    <section>
+        <div class="container">
+            <div class="row">
+
+
+                <div class="col-sm-12 padding-right">
+                    @RenderBody()
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+    <script src="~/js/jquery.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    <script src="~/js/jquery.scrollUp.min.js"></script>
+    <script src="~/js/price-range.js"></script>
+    <script src="~/js/jquery.prettyPhoto.js"></script>
+    <script src="~/js/main.js"></script>
+    <script src="~/js/food.js"></script>
+</body>
+</html>

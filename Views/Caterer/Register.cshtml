@@ -1,0 +1,81 @@
+﻿@model Pro3_Sem3.Models.Caterer
+
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+@ViewBag.msg
+<h1>Register</h1>
+
+<h4>Caterer</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4"></div>
+    <div class="col-md-4">
+        <form asp-action="Register" asp-controller="Caterer" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Catername" class="control-label"></label>
+                <input asp-for="Catername" class="form-control" />
+                <span asp-validation-for="Catername" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Caterpasss" class="control-label"></label>
+                <input asp-for="Caterpasss" class="form-control" />
+                <span asp-validation-for="Caterpasss" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Caterfullname" class="control-label"></label>
+                <input asp-for="Caterfullname" class="form-control" />
+                <span asp-validation-for="Caterfullname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cateraddress" class="control-label"></label>
+                <input asp-for="Cateraddress" class="form-control" />
+                <span asp-validation-for="Cateraddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Caterphone" class="control-label"></label>
+                <input asp-for="Caterphone" class="form-control" />
+                <span asp-validation-for="Caterphone" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Cateremail" class="control-label"></label>
+                <input asp-for="Cateremail" class="form-control" />
+                <span asp-validation-for="Cateremail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-6">
+                        <label class="control-label">Image</label>
+                        <input type="file" accept="image/*" asp-for="PhotoUpload" name="photoUpload" id="Image" class="form-control" style="display:none" />
+                        <input type="button" class="btn-info" value="Choose Image" id="chooseImg" />
+                    </div>
+                    <div class="col-6">
+                        <div style="width:100px;height:100px"><img id="blah" style="width:100%;height:100%;" /></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label">Address</label>
+                <select asp-items="ViewBag.data" asp-for="DistrictId" name="addressDistrict" class="form-control">
+                    <option>---All---</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="MaxPeople" class="control-label"></label>
+                <input asp-for="MaxPeople" class="form-control" />
+                <span asp-validation-for="MaxPeople" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />  &nbsp;|&nbsp;
+        
+                <a asp-action="Index" asp-controller="Home" class="btn btn-primary">Back to Home</a>
+            </div>
+        </form>
+    </div>
+</div>
+

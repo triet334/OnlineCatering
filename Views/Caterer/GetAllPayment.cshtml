@@ -1,0 +1,90 @@
+﻿@model IEnumerable<Pro3_Sem3.Models.Payment>
+
+@{
+    ViewData["Title"] = "GetAllPayment";
+    Layout = "~/Views/Shared/_CatererLayout.cshtml";
+}
+
+<h1>Payment List</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <p>Payment Code</p>
+            </th>
+            <th>
+                <p>Order Date</p>
+            </th>
+            <th>
+                <p>Order status</p>
+            </th>
+            <th>
+                <p>Total Price</p>
+            </th>
+            <th>
+                <p>Delivery Date</p>
+            </th>
+            <th>
+                <p>Customer Order</p>
+            </th>
+            <th>
+                <p>Contact Phone</p>
+            </th>
+            <th>
+                <p>Delivery Address</p>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            if (item.Status == true)
+            {
+                <tr>
+                    <td>
+                        <input type="hidden" asp-for="@item.Paymentid" name="paid" value="@item.Paymentid" />
+                        @Html.DisplayFor(modelItem => item.Paymentid)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.OrderDate)
+                    </td>
+
+                    <td>
+                        @if (item.Status == true)
+                        {
+                            <div style="background-color : springgreen; border:solid dashed groove">
+                                <p>Already Payment</p>
+                            </div>
+                        }
+                        else
+                        {
+                            <div hidden style="background-color : red; border:solid dashed groove">
+                                @Html.DisplayFor(modelItem => item.Status) Not yet
+                            </div>
+                        }
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Amount)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DeliveryDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Cus.Cusfullname)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Cus.Cusphone)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Orderaddress)
+                    </td>
+                    <td>                      
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

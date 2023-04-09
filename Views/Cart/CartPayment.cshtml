@@ -1,0 +1,73 @@
+﻿@model IEnumerable<Pro3_Sem3.Models.PaymentDetail>
+
+@{
+    ViewData["Title"] = "CartPayment";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>CartPayment</h1>
+
+<form action="Thanhtoan" method="post" enctype="multipart/form-data">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Detailsid)
+                </th>
+                <th>
+                    <h4>Payment Code</h4>
+                </th>
+                <th>
+                    <h4> Your choice</h4>
+                </th>
+                <th>
+                    <h4>Quantity</h4>
+                </th>
+                <th>
+                    <h4>Price Details</h4>
+                </th>
+                <th>
+                    <h4>Total Payment</h4>
+                </th>
+
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        <span asp-validation-for="@item.Detailsid">  </span>
+                        @Html.DisplayFor(modelItem => item.Detailsid)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Paymentid)
+                    </td>
+                    <td>
+
+                        @Html.DisplayFor(modelItem => item.Foodid)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Quantity)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Food.Foodprice)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Total)
+                    </td>
+
+                </tr>
+            }
+
+        </tbody>
+    </table>
+    <div>
+        <button class="btn btn-primary" type="submit" asp-action="Thanhtoan" asp-controller="Cart">Accept Payment</button> |
+        <button class="btn btn-primary" type="submit" asp-action="RemovePayment" asp-controller="Cart" >Remove Payment</button> |
+        @*<a asp-action="Details" asp-route-id="@item.Detailsid">Details</a> |
+        <a asp-action="Delete" asp-route-id="@item.Detailsid">Delete</a>*@
+    </div>
+</form>
+

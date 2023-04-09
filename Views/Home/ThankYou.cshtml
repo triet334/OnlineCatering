@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewData["Title"] = "ThankYou";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    .button {
+        border: none;
+        outline: 0;
+        display: inline-block;
+        padding: 8px;
+        color: white;
+        background-color: #000;
+        text-align: center;
+        cursor: pointer;
+        width: 10%;
+    }
+</style>
+<form action="@Url.Action("Index", "Home")">
+    <img src="/images/CEO/thankyou.png" style="width:75%">
+    <br />
+    <button class="button">Get back to Home</button>
+</form>
+

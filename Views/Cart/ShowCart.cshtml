@@ -1,0 +1,70 @@
+﻿@model IEnumerable<Pro3_Sem3.Models.Payment>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Your Cart</h1>
+
+
+
+<table class="table" accesskey="resid" >
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Amount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DeliveryDate)
+            </th>
+           
+            <th>
+                @Html.DisplayNameFor(model => model.Cater)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.OrderDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Status)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Amount)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DeliveryDate)
+                </td>
+
+                <td>
+                   
+                    @Html.DisplayFor(modelItem => item.Cater.Catername)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cus.Cusfullname)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Paymentid">Edit</a> |
+                    <a asp-action="ShowFood" asp-controller="Cart" asp-route-id="@item.Paymentid">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Paymentid">Delete</a>
+                </td>
+            </tr>
+        }
+           
+        </tbody>
+</table>

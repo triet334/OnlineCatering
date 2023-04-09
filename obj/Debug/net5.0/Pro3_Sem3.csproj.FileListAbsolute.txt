@@ -1,0 +1,1207 @@
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\appsettings.Development.json
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\appsettings.json
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.exe
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.deps.json
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.runtimeconfig.json
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.runtimeconfig.dev.json
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ref\Pro3_Sem3.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.pdb
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.Views.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.Views.pdb
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Castle.Core.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Humanizer.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.csproj.AssemblyReference.cache
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.AssemblyInfoInputs.cache
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.AssemblyInfo.cs
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.csproj.CoreCompileInputs.cache
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.MvcApplicationPartsAssemblyInfo.cache
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorAssemblyInfo.cache
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorAssemblyInfo.cs
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\staticwebassets\Pro3_Sem3.StaticWebAssets.Manifest.cache
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\staticwebassets\Pro3_Sem3.StaticWebAssets.xml
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\scopedcss\bundle\Pro3_Sem3.styles.css
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.TagHelpers.input.cache
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.TagHelpers.output.cache
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorCoreGenerate.cache
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorTargetAssemblyInfo.cache
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorTargetAssemblyInfo.cs
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.Views.pdb
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.csproj.CopyComplete
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\ref\Pro3_Sem3.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.pdb
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.genruntimeconfig.cache
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\Register.cshtml.g.cs
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\Login.cshtml.g.cs
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\Details.cshtml.g.cs
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\EditInfomation.cshtml.g.cs
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\ShowCart.cshtml.g.cs
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\ShowRes.cshtml.g.cs
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\ShowFood.cshtml.g.cs
+D:\Apteach2\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\MenuDetails.cshtml.g.cs
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.AssemblyInfoInputs.cache
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.AssemblyInfo.cs
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.csproj.CoreCompileInputs.cache
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.MvcApplicationPartsAssemblyInfo.cache
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorAssemblyInfo.cache
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorAssemblyInfo.cs
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\ref\Pro3_Sem3.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.pdb
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\appsettings.Development.json
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\appsettings.json
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.exe
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.deps.json
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.runtimeconfig.json
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.runtimeconfig.dev.json
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ref\Pro3_Sem3.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.pdb
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.Views.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.Views.pdb
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Castle.Core.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Humanizer.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\staticwebassets\Pro3_Sem3.StaticWebAssets.Manifest.cache
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\staticwebassets\Pro3_Sem3.StaticWebAssets.xml
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\scopedcss\bundle\Pro3_Sem3.styles.css
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.TagHelpers.input.cache
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.TagHelpers.output.cache
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorCoreGenerate.cache
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\ShowCart.cshtml.g.cs
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\ShowFood.cshtml.g.cs
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\ShowRes.cshtml.g.cs
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\Details.cshtml.g.cs
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\EditInfomation.cshtml.g.cs
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\Login.cshtml.g.cs
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\MenuDetails.cshtml.g.cs
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\Register.cshtml.g.cs
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorTargetAssemblyInfo.cache
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorTargetAssemblyInfo.cs
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.Views.pdb
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.csproj.CopyComplete
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.genruntimeconfig.cache
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\MenuDetails2.cshtml.g.cs
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\page3.cshtml.g.cs
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\Cart.cshtml.g.cs
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\SanPham.cshtml.g.cs
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\LoginRes.cshtml.g.cs
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\DetailsCaterer.cshtml.g.cs
+D:\Apteach2\Pro3-final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\WishList.cshtml.g.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.csproj.AssemblyReference.cache
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.AssemblyInfoInputs.cache
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.AssemblyInfo.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.csproj.CoreCompileInputs.cache
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.MvcApplicationPartsAssemblyInfo.cache
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorAssemblyInfo.cache
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorAssemblyInfo.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\staticwebassets\Pro3_Sem3.StaticWebAssets.Manifest.cache
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\staticwebassets\Pro3_Sem3.StaticWebAssets.xml
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\scopedcss\bundle\Pro3_Sem3.styles.css
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.TagHelpers.input.cache
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.TagHelpers.output.cache
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorCoreGenerate.cache
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\Cart.cshtml.g.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\page3.cshtml.g.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\SanPham.cshtml.g.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\SanPham2.cshtml.g.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\ShowCart.cshtml.g.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\ShowFood.cshtml.g.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\ShowRes.cshtml.g.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\LoginRes.cshtml.g.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\DetailsCaterer.cshtml.g.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\WishList.cshtml.g.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\Details.cshtml.g.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\EditInfomation.cshtml.g.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\Login.cshtml.g.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\MenuDetails.cshtml.g.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\MenuDetails2.cshtml.g.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\Register.cshtml.g.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorTargetAssemblyInfo.cache
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorTargetAssemblyInfo.cs
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\ref\Pro3_Sem3.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.pdb
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\appsettings.Development.json
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\appsettings.json
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.exe
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.deps.json
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.runtimeconfig.json
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.runtimeconfig.dev.json
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ref\Pro3_Sem3.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.pdb
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.Views.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.Views.pdb
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Castle.Core.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Humanizer.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.Views.pdb
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.csproj.CopyComplete
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.genruntimeconfig.cache
+D:\Apteach2\Pro3-final\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\CartPayment.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\appsettings.json
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.exe
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.deps.json
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.runtimeconfig.json
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.runtimeconfig.dev.json
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ref\Pro3_Sem3.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.pdb
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.Views.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.Views.pdb
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.AssemblyInfoInputs.cache
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.AssemblyInfo.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.csproj.CoreCompileInputs.cache
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorAssemblyInfo.cache
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorAssemblyInfo.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\staticwebassets\Pro3_Sem3.StaticWebAssets.Manifest.cache
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\staticwebassets\Pro3_Sem3.StaticWebAssets.xml
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\scopedcss\bundle\Pro3_Sem3.styles.css
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.TagHelpers.input.cache
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.TagHelpers.output.cache
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorCoreGenerate.cache
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\Cart.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\CartPayment.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\page3.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\SanPham2.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\ShowCart.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\ShowFood.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\ShowRes.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\LoginRes.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\DetailsCaterer.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\WishList.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\Details.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\EditInfomation.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\Login.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\MenuDetails.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\MenuDetails2.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\Register.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorTargetAssemblyInfo.cache
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorTargetAssemblyInfo.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.Views.pdb
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.csproj.CopyComplete
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\ref\Pro3_Sem3.dll
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.pdb
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.genruntimeconfig.cache
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\SanPham.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\Index.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\_CatererLayout.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\FoodListOfRestaurant.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\editFood.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\createFood.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\WorkerListOfRestaurant.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\createWorker.cshtml.g.cs
+C:\Users\ruava\Desktop\sdasdsadas\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\editWorker.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\appsettings.Development.json
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\appsettings.json
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.exe
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.deps.json
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.runtimeconfig.json
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.runtimeconfig.dev.json
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ref\Pro3_Sem3.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.pdb
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.Views.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.Views.pdb
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Castle.Core.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Humanizer.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.AssemblyInfoInputs.cache
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.AssemblyInfo.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.csproj.CoreCompileInputs.cache
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.MvcApplicationPartsAssemblyInfo.cache
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorAssemblyInfo.cache
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorAssemblyInfo.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\staticwebassets\Pro3_Sem3.StaticWebAssets.Manifest.cache
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\staticwebassets\Pro3_Sem3.StaticWebAssets.xml
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\scopedcss\bundle\Pro3_Sem3.styles.css
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.TagHelpers.input.cache
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.TagHelpers.output.cache
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorCoreGenerate.cache
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\Cart.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\CartPayment.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\page3.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\SanPham.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\ShowCart.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\ShowFood.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\ShowRes.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\createFood.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\createWorker.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\editFood.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\editWorker.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\FoodListOfRestaurant.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\Index.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\LoginRes.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\WorkerListOfRestaurant.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\DetailsCaterer.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\WishList.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\_CatererLayout.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\Details.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\EditInfomation.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\Login.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\MenuDetails.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\MenuDetails2.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\Register.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorTargetAssemblyInfo.cache
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorTargetAssemblyInfo.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.Views.pdb
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.csproj.CopyComplete
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\ref\Pro3_Sem3.dll
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.pdb
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.genruntimeconfig.cache
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\_CartPartial.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\GetAllPayment.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\Thanhtoan.cshtml.g.cs
+D:\Apteach2\ShopOnline\Project_Sem3_Final\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.csproj.AssemblyReference.cache
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\appsettings.json
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.exe
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.deps.json
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.runtimeconfig.json
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.runtimeconfig.dev.json
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ref\Pro3_Sem3.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.pdb
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.Views.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.Views.pdb
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.AssemblyInfoInputs.cache
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.AssemblyInfo.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.csproj.CoreCompileInputs.cache
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorAssemblyInfo.cache
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorAssemblyInfo.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\staticwebassets\Pro3_Sem3.StaticWebAssets.Manifest.cache
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\staticwebassets\Pro3_Sem3.StaticWebAssets.xml
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\scopedcss\bundle\Pro3_Sem3.styles.css
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.TagHelpers.input.cache
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.TagHelpers.output.cache
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorCoreGenerate.cache
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\Cart.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\CartPayment.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\page3.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\SanPham.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\ShowCart.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\ShowFood.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\Thanhtoan.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\createFood.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\createWorker.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\editFood.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\editWorker.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\FoodListOfRestaurant.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\Index.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\LoginRes.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\WorkerListOfRestaurant.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\DetailsCaterer.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\WishList.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\_CartPartial.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\_CatererLayout.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\Details.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\EditInfomation.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\GetAllPayment.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\Login.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\MenuDetails.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\MenuDetails2.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\Register.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorTargetAssemblyInfo.cache
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorTargetAssemblyInfo.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.Views.pdb
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.csproj.CopyComplete
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\ref\Pro3_Sem3.dll
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.pdb
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.genruntimeconfig.cache
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.csproj.AssemblyReference.cache
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\GetPaymentDetails.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\EditCaterer.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\GetAllPayment.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\Register.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\AboutUs.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\ContactUs.cshtml.g.cs
+C:\Users\Khanh\Desktop\IT\ShopOnline\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\ThankYou.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.exe
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.deps.json
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.runtimeconfig.json
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ref\Pro3_Sem3.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.pdb
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.Views.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Pro3_Sem3.Views.pdb
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.AssemblyInfo.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\staticwebassets\Pro3_Sem3.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\staticwebassets\Pro3_Sem3.StaticWebAssets.xml
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\scopedcss\bundle\Pro3_Sem3.styles.css
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.TagHelpers.input.cache
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.TagHelpers.output.cache
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\Cart.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\CartPayment.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\page3.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\SanPham.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\ShowCart.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\ShowFood.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Cart\Thanhtoan.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\createFood.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\createWorker.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\EditCaterer.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\editFood.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\editWorker.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\FoodListOfRestaurant.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\GetAllPayment.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\LoginRes.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\Register.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Caterer\WorkerListOfRestaurant.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\AboutUs.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\ContactUs.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\DetailsCaterer.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\ThankYou.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Home\WishList.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\_CartPartial.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\_CatererLayout.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\EditInfomation.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\GetAllPayment.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\GetPaymentDetails.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\Login.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\MenuDetails.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\MenuDetails2.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\User\Register.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.Views.pdb
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.csproj.CopyComplete
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\ref\Pro3_Sem3.dll
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.pdb
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.genruntimeconfig.cache
+C:\Users\Admin\Desktop\New folder\Pro3_Sem3\Pro3_Sem3\obj\Debug\net5.0\Pro3_Sem3.csproj.AssemblyReference.cache

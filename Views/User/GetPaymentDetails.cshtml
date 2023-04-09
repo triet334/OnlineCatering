@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Pro3_Sem3.Models.Food>
+
+@{
+    ViewData["Title"] = "GetPaymentDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Payment Details</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <p>#ID</p>
+            </th>
+            <th>
+                <p>Food Name</p>
+            </th>
+            <th>
+                <p>Quantity</p>
+            </th>
+            <th>
+                <p>Description</p>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            int stt = 1;
+            <tr>
+                <td>
+                    @(stt++)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Foodname)
+                </td>
+                <td>
+                    <p>@ViewBag.quan</p>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Fooddescription)
+                </td>
+
+                <td>
+                    <a asp-action="Index" asp-controller="Home" type="submit" value="Back to Home"
+                       class="btn btn-primary">Home</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,82 @@
+﻿@model Pro3_Sem3.Models.Caterer
+
+@{
+    ViewData["Title"] = "EditCaterer";
+    Layout = "~/Views/Shared/_CatererLayout.cshtml";
+}
+
+<h1>Edit Information</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4"></div>
+    <div class="col-md-4">
+        <form asp-action="EditCaterer" asp-controller="Caterer" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Caterid" />
+            <div class="form-group">
+                @*<label asp-for="Catername" class="control-label"></label>*@
+                <input asp-for="Catername" type="hidden" class="form-control" />
+                <span asp-validation-for="Catername" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Password</label>
+                <input asp-for="Caterpasss" class="form-control" />
+                <span asp-validation-for="Caterpasss" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Full Name</label>
+                <input asp-for="Caterfullname" class="form-control" />
+                <span asp-validation-for="Caterfullname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Address</label>
+                <input asp-for="Cateraddress" class="form-control" />
+                <span asp-validation-for="Cateraddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Phone</label>
+                <input asp-for="Caterphone" class="form-control" />
+                <span asp-validation-for="Caterphone" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Caterstatus" /> @Html.DisplayNameFor(model => model.Caterstatus)
+                </label>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Email</label>
+                <input asp-for="Cateremail" class="form-control" />
+                <span asp-validation-for="Cateremail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-6">
+                        <label>Image</label>
+                        <input type="file" accept="image/*" asp-for="PhotoUpload" name="photoUpload" id="Image" class="form-control" style="display:none" />
+                        <input type="button" class="btn-info" value="Choose Image" id="chooseImg" />
+                    </div>
+                    <div class="col-6">
+                        <div style="width:100px;height:100px"><img id="blah" src="@("~/images/caterer/"+Model.Photo)" asp-append-version="true" style="width:100%;height:100%;" /></div>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label">District</label>
+                <select asp-items="ViewBag.data" asp-for="DistrictId" name="addressDistrict" class="form-control">
+                    <option>---All---</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Limit of People</label>
+                <input asp-for="MaxPeople" class="form-control" />
+                <span asp-validation-for="MaxPeople" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />  &nbsp;|&nbsp;
+   
+                <a asp-action="Index" asp-controller="Caterer" class="btn btn-primary">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>

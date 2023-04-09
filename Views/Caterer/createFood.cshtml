@@ -1,0 +1,62 @@
+﻿@model Pro3_Sem3.Models.Food
+
+@{
+    ViewData["Title"] = "createFood";
+    Layout = "~/Views/Shared/_CatererLayout.cshtml";
+}
+
+<h1>Add New Food</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4"></div>
+    <div class="col-md-4">
+        <form asp-action="createFood" asp-controller="Caterer" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label class="control-label">Food Name</label>
+                <input asp-for="Foodname" class="form-control" />
+                <span asp-validation-for="Foodname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-6">
+                        <label class="control-label">Food Image</label>
+                        <input type="file" accept="image/*" asp-for="PhotoUpload" name="photoUpload" id="Image" class="form-control" style="display:none" />
+                        <input type="button" class="btn-info" value="Choose Image" id="chooseImg" />
+                    </div>
+                    <div class="col-6">
+                        <div style="width:100px;height:100px"><img id="blah" style="width:100%;height:100%;" /></div>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Status</label>
+                <input asp-for="Foodstatus" class="form-control" />
+                <span asp-validation-for="Foodstatus" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Price</label>
+                <input asp-for="Foodprice" class="form-control" />
+                <span asp-validation-for="Foodprice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                @*   <label asp-for="Caterid" class="control-label"></label>*@
+                @using Microsoft.AspNetCore.Http
+                <input value="@Context.Session.GetString("res")" type="hidden" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label class="control-label">Descreption</label>
+                <input asp-for="Fooddescription" class="form-control" />
+                <span asp-validation-for="Fooddescription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" /> &nbsp;|&nbsp;
+                <a asp-action="FoodListOfRestaurant" asp-controller="Caterer" class="btn btn-primary">Back to List</a> 
+            </div>
+        </form>
+    </div>
+</div>
+
+<h1>@ViewBag.File</h1>
+

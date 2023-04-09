@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Pro3_Sem3.Models.Food>
+
+@{
+    ViewData["Title"] = "FoodListOfRestaurant";
+    Layout = "~/Views/Shared/_CatererLayout.cshtml";
+}
+
+<h1>Foods List</h1>
+
+<p>
+    <a asp-action="createFood" asp-controller="Caterer" class="btn btn-success">Add New Food</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Foodname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Foodimage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Foodstatus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Foodprice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fooddescription)
+            </th>
+            <th>
+                Action
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Foodname)
+                </td>
+                <td>
+                    <img src="@("~/images/food/"+item.Foodimage)" asp-append-version="true" alt="" width="100" height="100" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Foodstatus)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Foodprice)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Fooddescription)
+                </td>
+                <td>
+                    <a asp-action="editFood" asp-controller="Caterer" asp-route-id="@item.Foodid" class="btn btn-info">Edit</a> &nbsp;|&nbsp;
+                    <a asp-action="deleteFood" asp-controller="Caterer" asp-route-id="@item.Foodid" class="btn btn-danger">Delete</a>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

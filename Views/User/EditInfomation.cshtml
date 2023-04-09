@@ -1,0 +1,69 @@
+﻿@model Pro3_Sem3.Models.Customer
+
+@{
+    ViewData["Title"] = "EditInfomation";
+}
+
+<h1>@Model.Username want to update your account information.</h1>
+
+
+<hr />
+<div class="row">        
+        <div class="col-md-4">
+            <form asp-action="EditInfomation">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="Cusid" accesskey="id" />
+                <div class="form-group" hidden>
+                    <label asp-for="Username" class="control-label">@Model.Username</label>
+                    <input asp-for="Username" class="form-control" />
+                    <span asp-validation-for="Username" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Userpass" class="control-label"></label>
+                    <input asp-for="Userpass" class="form-control" />
+                    <span asp-validation-for="Userpass" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Cusphone" class="control-label"></label>
+                    <input asp-for="Cusphone" class="form-control" />
+                    <span asp-validation-for="Cusphone" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Cusaddress" class="control-label"></label>
+                    <input asp-for="Cusaddress" class="form-control" />
+                    <span asp-validation-for="Cusaddress" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Cusfullname" class="control-label"></label>
+                    <input asp-for="Cusfullname" class="form-control" />
+                    <span asp-validation-for="Cusfullname" class="text-danger"></span>
+                </div>
+                @*<div class="form-group form-check">
+                        <label class="form-check-label">
+                            <input class="form-check-input" asp-for="Cusstatus" /> @Html.DisplayNameFor(model => model.Cusstatus)
+                        </label>
+                    </div>*@
+                @*<div class="form-group form-check">
+                        <label class="form-check-label">
+                            <input class="form-check-input" asp-for="Admin" /> @Html.DisplayNameFor(model => model.Admin)
+                        </label>
+                    </div>*@
+                <div class="form-group">
+                    <label asp-for="Cusemail" class="control-label"></label>
+                    <input asp-for="Cusemail" class="form-control" />
+                    <span asp-validation-for="Cusemail" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" asp-action="EditInfomation" value="Save" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div>
+        <a asp-action="Index" asp-controller="Home">Back to List</a>
+    </div>
+
+    @section Scripts {
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    }

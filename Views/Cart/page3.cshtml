@@ -1,0 +1,86 @@
+﻿@model Pro3_Sem3.Models.Payment
+
+@{
+    ViewData["Title"] = "page3";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h4>Please check your Restaurant and Order Date.</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+       
+        <form asp-action="ShowPaymentBeforeGetFood" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @*<div class="form-group"hidden>
+            <label asp-for="Paymentid" class="control-label"></label>
+            <input asp-for="Paymentid" class="form-control" />
+            <span asp-validation-for="Paymentid" class="text-danger"></span>
+        </div>*@
+            <div hidden class="form-group">
+                <label asp-for="OrderDate" class="control-label"></label>
+                <input asp-for="OrderDate" class="form-control" />
+                <span asp-validation-for="OrderDate" class="text-danger"></span>
+            </div>
+            <div class="form-group" hidden>
+                <label asp-for="Cusid" class="control-label"></label>
+                <input asp-for="Cusid" class="form-control" />
+
+            </div>
+            <div class="form-group">
+                <label hidden asp-for="Cus.Cusfullname" class="control-label"></label>
+                <span>Welcome @ViewBag.name for Order. </span>
+            </div>
+            <div class="form-group form-check" hidden>
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Status" /> @Html.DisplayNameFor(model => model.Status)
+                </label>
+            </div>
+            <div class="form-group" hidden>
+                <label asp-for="Amount" class="control-label"></label>
+                <input asp-for="Amount" class="form-control" />
+                <span asp-validation-for="Amount" class="text-danger"></span>
+            </div>
+            <div hidden class="form-group">
+                <label asp-for="DeliveryDate" class="control-label"></label>
+                <input asp-for="DeliveryDate" class="form-control" />
+                <span asp-validation-for="DeliveryDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Please insert address you choose</label>
+                <input asp-for="Orderaddress" class="form-control" required />
+                <span asp-validation-for="Orderaddress" class="text-danger"></span>
+            </div>
+            <div class="form-group" hidden>
+                <label asp-for="Caterid" accesskey="resid" class="control-label"> </label>
+                <input type="hidden" asp-for="Caterid" class="form-control" readonly />
+
+
+            </div>
+            <div class="form-group">
+                <label accesskey="resid" class="control-label">You already choose @ViewBag.data Restaurant for your party</label>
+                <input type="hidden" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label  class="control-label">Insert Table you want to book. Your @ViewBag.data you choose can not serve over @ViewBag.input
+                 
+                </label>
+                <input type="text" min="50"  class="form-control" name="quanti" required =" @ViewBag.input" />
+             
+            </div>
+            <div class="form-group">
+
+                <input asp-action="ShowPaymentBeforeGetFood" asp-controller="Cart" type="submit" value="Accept"
+                       class="btn btn-primary" />
+                <input asp-action="Index" asp-controller="Home" type="submit" value="Cancel"
+                       class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
